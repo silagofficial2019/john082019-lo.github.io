@@ -2,3 +2,11 @@
 	margin: 0;
 	padding: 0;
 }
+header{
+	background-image:url(download.jpg);
+	background-position:center;
+	background-size:cover;
+	background-repeat:none;
+	height:100vh;
+
+}
