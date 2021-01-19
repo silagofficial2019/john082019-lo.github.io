@@ -92,5 +92,26 @@ body{
 	font-size: 30px;
 }
 @media (max-width:768px) {
-    
+.home{
+  background: none;
+}
+ .centered {
+    top: 90%; 
+   
+}
+.text-block {
+    bottom: 20px;
+    right: 20px;
+   margin-left: 10px;
+   margin-right: 10px;
+	}
+.modal-title h1{
+	font-size: 20px;
+}
+td{
+	font-size: 14px;
+}
+.btn{
+	font-size: 14px;
+}
 }
